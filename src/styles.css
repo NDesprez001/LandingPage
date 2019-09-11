@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  padding-top: 20px;
+}
+.cards {
+  width: 1000px;
+  display: inline-block;
+}
+.row {
+  padding: 0px;
+  margin: 0px;
+}
